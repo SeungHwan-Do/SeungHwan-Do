@@ -1,5 +1,6 @@
-### Hi there 👋
 [![SeungHwan-Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHwan-Do)](https://github.com/Seunghwan-Do/github-readme-stats)
+Student of 
+<br>📫 Email : se05052@naver.com
 
 <!--
 **SeungHwan-Do/SeungHwan-Do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
