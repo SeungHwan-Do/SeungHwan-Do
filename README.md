@@ -1,5 +1,5 @@
 [![SeungHwan-Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHwan-Do)](https://github.com/Seunghwan-Do/github-readme-stats)
-<br>Student of School of Electronics Engineering, Kyungpook National University
+<br>Student of School of Electronics Engineering(SEE), Kyungpook National University
 <br>📫 Email : se05052@naver.com
 
 <!--
