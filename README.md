@@ -1,10 +1,9 @@
 [![SeungHwan-Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHwan-Do)](https://github.com/Seunghwan-Do/github-readme-stats)
-<br>Student of School of Electronics Engineering(SEE), Kyungpook National University
-<br>Major in Electronics Engineering, minor in Computer Science
-<br>🏆 Award : 2021 전력데이터활용 신서비스 개발 경진대회 우수상
-<br>  (PIKA팀)https://home.kepco.co.kr/kepco/NS/C/A/htmlView/NSCAHP001.do 
-<br> 2022 창의 회로설계 챌린지 (Creative Circuit Design Challenge) 동상
-<br> http://ccdc-knuidec.or.kr/html/dh_board/lists/winner
+<br>System LSI business, Samsung Electronics Co., Ltd.
+<br>Processor DFT engineer
+<br>Graduate of School of Electronics Engineering(SEE), Kyungpook National University
+<br>Major in Electronics Engineering
+
 <br>📫 Email : se05052@naver.com
 <!--
 **SeungHwan-Do/SeungHwan-Do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
