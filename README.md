@@ -1,6 +1,6 @@
 [![SeungHwan-Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHwan-Do)](https://github.com/Seunghwan-Do/github-readme-stats)
 <br>System LSI business, Samsung Electronics Co., Ltd.
-<br>Processor DFT engineer
+<br>Processor Physical Design
 <br>Graduate of School of Electronics Engineering(SEE), Kyungpook National University
 <br>Major in Electronics Engineering
 
